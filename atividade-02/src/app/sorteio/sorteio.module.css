@@ -1,0 +1,32 @@
+.logo {
+    height: 90px;
+}
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h1 {
+    text-align: center;
+    padding: 60px;
+    color: rgb(54, 155, 54);
+}
+.h2 {
+    text-align: center;
+    color: greenyellow;
+    margin: 15px;
+}
+.h3 {
+    text-align: center;
+    color: #000000;
+    padding: 20px;
+    border: 1px solid greenyellow;
+    border-radius: 50%;
+    background-color: greenyellow;
+    margin: 8px;
+}
+.resultadoDoSorteio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
